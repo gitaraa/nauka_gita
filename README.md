@@ -1,3 +1,5 @@
-# nAuka gita
+# Nauka gita
 
-GIT JEST WSPANIaly
+Git jest wspanialy.
+:D
+Work every day !
