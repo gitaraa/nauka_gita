@@ -1,2 +1,3 @@
-nAuka gita
+# nAuka gita
+
 GIT JEST WSPANIaly
